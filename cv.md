@@ -8,22 +8,23 @@
 
 ---
 
-## OBJECTIVE
+## _OBJECTIVE_
 *Constant development, personal growth, acquiring new knowledge/skills/abilities.*
 
 ---
 
-## WORK EXPERIENCE
+## _WORK EXPERIENCE_
 **CHIEF DESIGNER**
   * **JSC “AMKODOR” – HOLDING MANAGING COMPANY”**
     August 2011 - present
     Research and Development Centre, Design Bureau of Excavators and Backhoe Loaders.
+
     __*Chief designer*__
     Development of complex 3-D structures in heavy engineering. Experience in creating hydraulic excavators. General layout, metal construction, working equipment. Kinematic and force analysis of stress-strain state. Supervision of work on the creation of related systems (hydraulic system, electrical system, cabin and cladding, engine system), selection of components. Participation in the manufacture, testing and development of machines, failure analysis. Work in the modern CAD / CAM / CAE system NX (UGS). Experience in creating and analyzing complex articulated lever system.
 
 ---
 
-## EDUCATION
+## _EDUCATION_
 * Belarusian National Technical University
     Department of Construction and Road Machinery
     *Graduate (Specialist)*
@@ -42,7 +43,7 @@
 
 ---
 
-## SELF-STUDY
+## _SELF-STUDY_
 * English (Duolingo, Rosetta Stone) – (Upper) Streamline
 * German (Mittelstufe) (B1.1) Streamline
 * [https://learn.javascript.ru/](https://learn.javascript.ru/)
